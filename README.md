@@ -12,7 +12,7 @@ This C++ console application serves as a basic flight booking system with the fo
 Admin Functions (default login: admin/admin):
 - Manage users: View all registered users.
 - Manage flights: Add or delete flights in `flight.txt`.
-= Generate reports: Create a basic summary of flight bookings.
+- Generate reports: Create a basic summary of flight bookings.
 
 
 Administrators (default credentials: `admin`) can play roles:
