@@ -6,8 +6,9 @@
 This C++ console application serves as a basic flight booking system with the following core features:
 - Flight Listings: Displays available flights by reading from the `flight.txt` file, including flight ID, destination, and departure time.
 - User Account System: Allows users to sign up and log in, with credentials stored in the `user.txt` file.
-- Flight Booking: Logged-in users can book flights by selecting a destination, choosing a flight, and picking a seat type (standard or premium). Booking details are saved in `reserved.txt` after a mock payment step.
-= Booking History: Users can view and modify their previous bookings.
+- Flight Booking: Logged-in users can book flights by selecting a destination, choosing a flight, and picking a seat type (standard or premium).
+- Booking details are saved in `reserved.txt` after a mock payment step.
+- Booking History: Users can view and modify their previous bookings.
 
 Admin Functions (default login: admin/admin):
 - Manage users: View all registered users.
